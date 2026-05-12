@@ -1,8 +1,8 @@
 Reflexión sobre comunicación digital y fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Michael Steven Cardenas Ricaurte
+Fecha: 12 de mayo del 2026 
+Nombre de la rama: michael_cardenas
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - prevención de desinformación
 - cultura de paz
 
-Respuesta:
+Respuesta: Una plataforma comunitaria necesita consultar informacion del servidor para enviar
+propuestas desde la pagina web, para que la comunidad tenga accseso a la informacion  y puedan compartir
+sus propuestas o ideas a la comunidad y teniendo participacion ciudadana para que todo lo que consulten sea 
+contado he informado a toda la comunidad para que expresen su punto de vista de cada informacion encontrada, tambien
+por medio de una pagina web puenen recepcionar propuestas y darlas a coonocer a la comunidad para que puedan llegar 
+entre todos a tomar una decision.               

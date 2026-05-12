@@ -1,8 +1,8 @@
 Análisis de mensaje comunitario – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Michael Steven Cardenas Ricaurte 
+Fecha: 11 de mayo del 2026 
+Nombre de la rama: michael_cardenas
 
 Lee el aviso mostrado por el servidor y responde.
 
@@ -11,20 +11,24 @@ Aviso base:
 
 1. ¿El mensaje es claro?
 
-Respuesta:
+Respuesta: si porque es un mensaje claro pero se entiende facilmente que ahi que verificar la fuente 
+confirmar la fecha y usa un lenguaje respetuoso.
 
 2. ¿El mensaje ayuda a prevenir desinformación?
 
-Respuesta:
+Respuesta: si porque siguiendo esos pasos logramos prevenir compartit informacion falsa
 
 3. ¿Qué le agregarías para hacerlo más útil para una comunidad?
 
-Respuesta:
+Respuesta: comparar con otras fuentes 
 
 4. ¿Qué riesgo existe si una plataforma publica avisos confusos?
 
-Respuesta:
+Respuesta: que las personas no van a entender el contenido o pueden haber personas que lo comparter sin saber
+si esa informacion sea verdadera
 
 5. Escribe una versión mejorada del aviso comunitario:
 
-Respuesta:
+Respuesta: para prevenir informcion falsa tenemos que ser responsables y antes de compartir informcion verificar sus fuentes
+sus fechas, comparar con otas fuentes y si esa noticia tiene un lenguaje claro, respetuoso y entendible.
+
